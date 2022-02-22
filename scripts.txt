@@ -1,0 +1,14 @@
+git add portrait.txt
+
+git commit -m "Added eyebrows to portrait"
+
+git add portrait.txt
+
+git commit -m "Corrected date format"
+
+git add portrait.txt
+
+git commit -m "Added artist name"
+
+git add .
+
